@@ -2,9 +2,11 @@
 
 **A tech blogging website created using Django web framework.**
 
-This blogging website provides a platform users
+![techBlog](./img/techBlog.png)
 
-- to create a post
+This blogging website provides a platform for users to
+
+- create a post
 - save post as a draft and publish later
 - comments on post
 - approve / reject the comments
